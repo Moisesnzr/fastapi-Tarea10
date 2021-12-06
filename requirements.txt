@@ -51,7 +51,7 @@ ply==3.11
 pycosat==0.6.3
 pycurl==7.43.0.6
 pydantic==1.8.2
-pyodbc===4.0.0-unsupported
+pyodbc===4.0.32
 pyreadline==2.1
 pytest==6.2.3
 pywin32==227
